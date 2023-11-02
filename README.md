@@ -1,13 +1,7 @@
-<h1 align="center">Hi 👋, I'm Hamim Ahmed</h1>
+<h1 align="center">Hi , I'm Hamim Ahmed</h1>
 <h3 align="center">A passionate web developer & programmer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hamim-200&label=Profile%20views&color=0e75b6&style=flat" alt="hamim-200" /> </p>
-
 <p align="left"> <a href="https://twitter.com/hammiimm___" target="blank"><img src="https://img.shields.io/twitter/follow/hammiimm___?logo=twitter&style=for-the-badge" alt="hammiimm___" /></a> </p>
-
-- 🌱 I’m currently learning **React**
-
-- 💬 Ask me about **MERN**
 
 - 📫 How to reach me **hamim.ahmed541@gmail.com**
 
