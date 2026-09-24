@@ -1,14 +1,12 @@
 <h1 align="center">Hello, I'm Kazi Hamim Ahmed</h1>
 <h3 align="center">A Software Developer from Bangladesh.</h3>
-<h3 align="center">🎓 Studying Electrical & Computer Engineering at North South University</h3>
-<h3 align="center">💻 Currently focused on Full-Stack Web Development</h3>
-<h3 align="center">🌱 Learning JavaScript, React, Next.js & modern web technologies</h3>
-<h3 align="center">🔬 Interested in Software Engineering, AI/ML & emerging technologies</h3>
-<h3 align="center">🤝 Passionate about building projects, solving problems & continuous learning</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hamim-200" alt="hamim-200" /></a> </p>
-
+- 🎓 Studying Electrical & Computer Engineering at North South University
+- 💻 Currently focused on Full-Stack Web Development
+- 🌱 Learning JavaScript, React, Next.js & modern web technologies
+- 🔬 Interested in Software Engineering, AI/ML & emerging technologies
+- 🤝 Passionate about building projects, solving problems & continuous learning
 - 📫 How to reach me **hamim.ahmed541@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
